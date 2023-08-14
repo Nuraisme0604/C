@@ -70,9 +70,12 @@ int main() {
 	    // cái hàm strcmp dùng khi khai báo thư viện <string.h> mà đcm cứ bị nhầm
     	printf("Chuc mung %s \nBan da duoc cap quyen truy cap admin \n",user);
     	sleep(1);
-    	printf("cai nay chua biet lam cai gi ca\n");
+    	printf("Sau day la code cua chuong trinh nay\n");
+    	printf("https://github.com/Nuraisme0604/C/blob/main/model.cpp");
+    	printf("\nNhan enter di");
+    	getch();
     	sleep(2);
-	    // xong code cho id1
+	    // xong code cho id1 . Quan trong la dieu kien if thoi con lai code ben trong muon lam cai deo gi thi lam.
 	}else if(strcmp(CCCD, CMND2) == 0){
 	    // đoạn này code cho id2
 		printf("->He thong xin chuc mung ban da nhan duoc quyen truy cap dac biet<-\n",user);
