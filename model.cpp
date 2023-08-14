@@ -67,7 +67,7 @@ int main() {
 	}else if(strcmp(CCCD, CMND2) == 0){
 		printf("->He thong xin chuc mung ban da nhan duoc quyen truy cap dac biet<-\n",user);
 		sleep(2);
-		printf("Minh said to %s: Nguoi iuu oiiiii, anh yeuuu emmmmmmm <3 \n",user);
+		printf("Admin said to %s: Nguoi iuu oiiiii, anh yeuuu emmmmmmm <3 \n",user);
 		sleep(2);
 		printf("->Hay don nhan lay tinh yeu cua tui<-\n");
 		sleep(2);
