@@ -5,6 +5,7 @@
 #include <unistd.h>
 #include <math.h>
 int main() {
+	system("Color 9");
 	int kiemsoat=1;
     while (kiemsoat==1) { 
 		float a,b,c,d,e,re;
